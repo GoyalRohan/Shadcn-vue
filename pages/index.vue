@@ -2,7 +2,7 @@
 <div class="p-8">
     <div class="text-center my-14 border border-2 border-black p-6">
         <h3 class="font-bold text-warning">This is Button</h3>
-        <Button >Click me</Button>
+        <Button variant="warning" >Click me</Button>
     </div>
 
 
