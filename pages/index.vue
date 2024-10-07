@@ -1,9 +1,29 @@
 <template>
 <div class="p-8">
-    <div class="text-center my-14 border border-2 border-black p-6">
+    <!-- <div class="text-center my-14 border border-2 border-black p-6">
         <h3 class="font-bold text-warning">This is Button</h3>
         <Button variant="warning" >Click me</Button>
+    </div> -->
+
+    <div class="text-center my-14 border border-2 border-black p-6">
+        <h3 class="font-bold text-warning">This is Date Range picker</h3>
+        <DatePicker />
     </div>
+
+
+
+    <div class="text-center my-14 border border-2 border-black p-6">
+        <h3 class="font-bold text-warning">This is Dropdown menu</h3>
+        <DropdownMenu />
+    </div>
+
+
+    <div class="text-center my-14 border border-2 border-black p-6">
+        <h3 class="font-bold text-warning">This is Dropdown menu</h3>
+        <RadioGroup />
+    </div>
+
+    
 
 
     <div class="text-center my-14 border border-2 border-black p-6">
